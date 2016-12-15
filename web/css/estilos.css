@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13/10/2016, 05:48:11 PM
+    Author     : Rafael
+*/
+
+body{
+    text-align: center;
+    font-family: Source sans pro;
+    font-size: 1.5em;
+}
+label, input{
+    margin-top: 1em;
+}
+::selection{
+    background-color: red;
+    color:white;
+}
+span.rojito{
+    background-color: #ff3333;
+    color:white;
+    padding: 0 .1em;
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+form{
+    
+    margin: 2em auto 0;
+}
+
+td{
+    padding: .2em;
+}
